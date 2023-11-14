@@ -1,4 +1,4 @@
-# DataCamp Certified Data Analyst Professional with Python
+# DataCamp Data Analyst Professional Certification
 
 ![alternative text](img/readme_image.jpg)
 
