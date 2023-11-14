@@ -1,4 +1,4 @@
-# DataCamp Certified Data Analyst Associate in SQL
+# DataCamp Data Analyst Professional Certification with Python
 
 ![alternative text](img/readme_image.jpg)
 
