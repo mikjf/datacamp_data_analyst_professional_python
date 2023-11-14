@@ -2,29 +2,30 @@
 
 ![alternative text](img/readme_image.jpg)
 
-#### -- Project Status: [Completed]
+#### -- Project Status: [Active]
 
 ## Objective
-This repository is dedicated to showcasing my journey through the Data Analyst in SQL career track on DataCamp, which I have successfully completed. It includes a series of exercises that were instrumental in assessing my readiness for the Data Analyst Associate timed exams and the practical exam.
+This repository documents my progress through the Data Analyst Professional Certification at DataCamp, with a focus on Python. The certification involves two timed exams and a practical exam. During my preparation, I've had the opportunity to enhance my Python skills, covering everything from basic concepts to advanced data wrangling and manipulation techniques. I've also learned to create charts and graphs using popular visualization packages.
 
-As of November 2023, I have passed all the exams and currently hold the Certified Data Analyst Associate credential.
+Currently, I'm engaged in the final part of the certification, which is the practical exam. In this exam, I am analyzing the effectiveness of three different sales strategies employed by "Pens and Printers" for their new stationery product line. The aim is to evaluate customer reach and revenue generation to determine the most effective sales approach for future product launches. Upon completion, I will create a video presentation to share my findings, insights, and recommendations with the sales team.
 
-### Data Analyst in SQL
-* [Data Analyst in SQL career track](https://www.datacamp.com/tracks/data-analyst-in-sql)
-  * Create and query relational databases using SQL
-  * Join tables, apply filters and sub-queries
-  * Group and aggregate data for summary statistics
-  * PostgreSQL summary stats and window functions
-  * Exploratory data analysis and data-driven decision making
-  * Effectively comumnicate insights and actionable insights with data visualization
+### Data Analyst with Python
+* [Data Analyst with Python career track](https://www.datacamp.com/tracks/data-analyst-with-python)
+  * Mastering the basics of data analysis using Python
+  * Creating visualizations using Matplotlib and manipulating data with pandas
+  * Data manipulation, cleaning, and statistical analysis with Python
+  * Using Python libraries like Seaborn for data visualization
+  * Exploratory data analysis (EDA) to extract insights from data
+  * Hypothesis testing and sampling techniques in Python
 
-### Data Analyst Associate Certification
-* [Data Analyst Associate Certification](https://support.datacamp.com/hc/en-us/articles/7926305856919-Data-Analyst-Associate)
+### Data Analyst Professional Certification
+* [Data Analyst Professional Certification](https://www.datacamp.com/certification/data-analyst)
   * Data management
   * Exploratory analysis
+  * Analytics fundamentals
+  * Data communication
+  * Coding for production
   * Statistical experimentation
-  * Communication and visualization
 
 ### Data and sources
 * The data used belongs to [DataCamp](https://www.datacamp.com/)
-* Every exercise folder has its own dataset included
