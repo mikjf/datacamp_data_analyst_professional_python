@@ -14,7 +14,7 @@ The stationery products market, characterized by intense competition and evolvin
 ### Analysis and recommendations
 * [exam_product_sales_analysis](exam_product_sales_analysis.ipynb)
 * [written_report](written_report.ipynb)
-* [sales_methods_presentation](sales_methods_presentation.pdf)
+* [strategic_analysis_presentation](strategic_analysis_presentation.pdf)
 
 ### Data Analyst with Python
 * [Data Analyst with Python career track](https://www.datacamp.com/tracks/data-analyst-with-python)
