@@ -7,7 +7,7 @@
 ## Objective
 This repository documents my progress through the Data Analyst Professional Certification at DataCamp, with a focus on Python. The certification involves two timed exams and a practical exam. During my preparation, I've had the opportunity to enhance my Python skills, covering everything from basic concepts to advanced data wrangling and manipulation techniques. I've also learned to create charts and graphs using popular visualization packages.
 
-As of December 2023, I have passed all the exams and currently hold the Certified Data Analyst Professional credential.
+As of December 2023, I have passed all exams and currently hold the Certified Data Analyst Professional credential.
 
 ## Sales methods strategic analysis
 
